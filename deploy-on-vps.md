@@ -25,7 +25,7 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SamPandey001/Secktor-Md
+      git clone https://github.com/USMAN-SER/Shark-Md
       cd Secktor-Md
       yarn install --network-concurrency 1
       ```
@@ -40,14 +40,14 @@
       ```
       OWNER_NUMBER="911234567890"
       MONGODB_URI="mongodb+srv://*************"
-      SESSION_ID = "secktorbot.herokuapp.com/session"
-      THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
+      SESSION_ID = "sharkbot.herokuapp.com/session"
+      THUMB_IMAGE = "https://telegra.ph/file/41a9cb6ff77ab717b9a9e.jpg"
       port = 5000
-      email = "sam@secktor.live"
+      email = "mu30906587222@gmail.com"
       global_url = "instagram.com"
-      OWNER_NAME = "SamPandey001"
+      OWNER_NAME = "USMAN-SER"
       AUTO_REACTION = false
-      FAKE_COUNTRY_CODE = 92
+      FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
       PREFIX = .
       WARN_COUNT = 3
@@ -55,9 +55,9 @@
       ANTI_BAD_WORD = "fuck"
       LEVEL_UP_MESSAGE= true
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
-      THEME= SECKTOR
+      THEME= SHARK-MD
       WORKTYPE = public
-      PACK_INFO = "Sam;Pandey"
+      PACK_INFO = "USMAN-SER"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```

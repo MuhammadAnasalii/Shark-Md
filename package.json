@@ -1,13 +1,13 @@
 {
-               "name": "KING-MD",
+               "name": "Shark-Md",
                "version": "1.0.1",
-               "description": "Multi Device whatsapp bot by Naveed Dogar.",
+               "description": "Multi Device whatsapp bot by USMAN-SER.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
-                "stop": "pm2 stop king"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name sharkmd",
+                "stop": "pm2 stop sharkmd"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/naveeddogar/KING-MD.git"
+                 "url": "git+https://github.com/USMAN-SER/Shark-Md.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/naveeddogar/KING-MD/issues"
+                 "url": "https://github.com/USMAN-SER/Shark-Mdissues"
                   },
-                 "homepage": "https://github.com/naveeddogar/KING-MD#readme"
+                 "homepage": "https://github.com/USMAN-SER/Shark-Md#readme"
                   }

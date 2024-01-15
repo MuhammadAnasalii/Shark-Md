@@ -72,7 +72,7 @@ async(Void, citel) => {
                 image: {
                     url: images,
                 },
-                caption: `*----「 Ecchi 」----*`,
+                caption: `*----「 𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐇𝐀𝐑𝐊 𝐌𝐃 」----*`,
                 footer: Void.user.name,
                 headerType: 4,
                 contextInfo: {

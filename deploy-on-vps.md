@@ -38,7 +38,7 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="911234567890"
+      OWNER_NUMBER="923090658722"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "sharkbot.herokuapp.com/session"
       THUMB_IMAGE = "https://telegra.ph/file/41a9cb6ff77ab717b9a9e.jpg"

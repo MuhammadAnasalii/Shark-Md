@@ -82,4 +82,4 @@ cmd({
   await Void.sendMessage(groupJid, text);
 
   return await citel.reply("_Broadcast sent successfully_");
-});
+}); 

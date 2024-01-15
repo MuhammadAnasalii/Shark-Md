@@ -1,15 +1,20 @@
 /**
 ========================================================
-      █▄▀ █ █▄ █ ▄▀     █▄ ▄█ █▀▄
-      █ █ █ █ ▀█ ▀▄█ ▀▀ █ ▀ █ █▄▀
+   _____ _    _          _____  _  __           __  __ _____  
+  / ____| |  | |   /\   |  __ \| |/ /          |  \/  |  __ \ 
+ | (___ | |__| |  /  \  | |__) | ' /   ______  | \  / | |  | |
+  \___ \|  __  | / /\ \ |  _  /|  <   |______| | |\/| | |  | |
+  ____) | |  | |/ ____ \| | \ \| . \           | |  | | |__| |
+ |_____/|_|  |_/_/    \_\_|  \_\_|\_\          |_|  |_|_____/ 
+ 
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : KING-MD                                                                    
- * @author : SuhailTechInfo <https://github.com/SuhailTechInfo>   
- * @description : KING-MD ,A Multi-functional whatsapp bot.       
+ * @project_name : Shark-Md                                                                    
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
+ * @description : Shark-Md ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================
  **/
@@ -17,9 +22,9 @@
 
  var alivemessage = `*ι αм σηℓιηє нσω ¢αη ι нєℓρ уσυ*
  
-_ι αм ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
+_ι αм ƨнαяκ-м∂ ᴍυℓтι ԃєνιᴄє ωнαтѕαρρ вσт_ 
 
-_If any query : wa.me/923096566451_
+_If any query : wa.me/923090658722
 
 
 *_Update Alive Message by adding text with Alive_*

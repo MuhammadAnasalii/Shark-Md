@@ -13,7 +13,7 @@
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
  * @project_name : Shark-Md                                                                    
- * @author : naveeddogar <https://github.com/USMAN-SER>   
+ * @author : USMAN-SER <https://github.com/USMAN-SER>   
  * @description : Shark-Md ,A Multi-functional whatsapp bot.       
  * @version 1.0.1                                                                                             
  ========================================================

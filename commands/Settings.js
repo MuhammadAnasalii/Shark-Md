@@ -40,7 +40,7 @@ cmd({
             ];
             let buttonMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg',
+                    url: 'https://telegra.ph/file/41a9cb6ff77ab717b9a9e.jpg',
                 },
 
                 caption: `
@@ -87,7 +87,7 @@ Eg:- .setvar OPENAI_API_KEY:put open api key
 Eg:- .setvar OWNER_NUMBER:put any name
 
 14♻️➣ To put Owner number type :
-Eg:- .setvar OWNER_NUMBER:92xxxxxxxx
+Eg:- .setvar OWNER_NUMBER:923090658722
 
 15♻️➣ To put Pack info type :
 Eg:- .setvar PACK_INFO:put any name
@@ -105,7 +105,7 @@ Eg:- .set THUMB_IMAGE:put image url
 Eg:- .setvar WORKTYPE:public/private
 
 
-©𝙂𝙀𝙉𝙀𝙍𝘼𝙏𝙀𝘿 𝘽𝙔 𝙆𝙄𝙉𝙂-𝙈𝘿
+©𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐒𝐇𝐀𝐑𝐊 𝐌𝐃
 `,
 
                 footer: tlang().footer,

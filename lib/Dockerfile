@@ -1,6 +1,6 @@
-FROM quay.io/naveeddogar/kingmd
-RUN git clone https://github.com/naveeddogar/KING-MD /root/naveeddogar
-WORKDIR /root/naveeddogar/
+FROM quay.io/USMAN-SER/sharkmd
+RUN git clone https://github.com/USMAN-SER/Shark-Md /root/USMAN-SER
+WORKDIR /root/USMAN-SER/
 RUN npm install npm@latest
 RUN npm install
 EXPOSE 8000

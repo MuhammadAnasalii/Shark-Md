@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/naveeddogar/KING-MD
-      cd KING-MD
+      git clone https://github.com/USMAN-SER/Shark-Md
+      cd Shark-Md
       yarn install --network-concurrency 1
       ```
 
@@ -38,14 +38,14 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="923096566451"
+      OWNER_NUMBER="923090658722"
       MONGODB_URI="mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
       SESSION_ID = "ID-here"
-      THUMB_IMAGE = "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+      THUMB_IMAGE = "https://telegra.ph/file/d046c7fcb16a7cc4644f5.jpg"
       port = 5000
-      email = "textnow1pak@gmail.com"
+      email = "mu3090658722@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "Naveed Dogar"
+      OWNER_NAME = "USMAN-SER"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= SECKTOR-2.0
       WORKTYPE = public
-      PACK_INFO = "Naveed;King-Md"
+      PACK_INFO = "USMAN-SER;Shark-Md"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```

@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting KING-MD..."
+echo "Starting Shark-Md..."
 node lib/client.js
 done
